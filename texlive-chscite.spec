@@ -1,12 +1,12 @@
-# revision 24037
+# revision 26383
 # category Package
 # catalog-ctan /macros/latex/contrib/chscite
-# catalog-date 2011-09-20 14:34:15 +0200
+# catalog-date 2012-05-14 12:19:39 +0200
 # catalog-license lppl1.2
-# catalog-version 2.99
+# catalog-version 2.999
 Name:		texlive-chscite
-Version:	2.99
-Release:	2
+Version:	2.999
+Release:	1
 Summary:	Bibliography style for Chalmers University of Technology
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chscite
