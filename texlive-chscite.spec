@@ -52,3 +52,20 @@ recommendations.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar bibtex tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Aug 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.999-1
++ Revision: 812116
+- Update to latest release.
+
+* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.99-2
++ Revision: 750228
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 2.99-1
++ Revision: 718059
+- texlive-chscite
+- texlive-chscite
+- texlive-chscite
+
