@@ -5,8 +5,8 @@
 # catalog-license lppl1.2
 # catalog-version 2.999
 Name:		texlive-chscite
-Version:	2.999
-Release:	10
+Version:	2.9999
+Release:	1
 Summary:	Bibliography style for Chalmers University of Technology
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chscite
