@@ -5,9 +5,9 @@ Summary:	Bibliography style for Chalmers University of Technology
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chscite
 License:	LPPL1.2
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chscite.r28552.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chscite.doc.r28552.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chscite.source.r28552.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chscite.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chscite.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chscite.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
