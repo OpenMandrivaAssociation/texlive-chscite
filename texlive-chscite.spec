@@ -3,7 +3,7 @@ Version:	28552
 Release:	2
 Summary:	Bibliography style for Chalmers University of Technology
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chscite
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/chscite
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chscite.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chscite.doc.r%{version}.tar.xz
